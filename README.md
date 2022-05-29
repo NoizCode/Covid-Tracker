@@ -11,6 +11,14 @@ Modes:
 
 2) Search mode for looking up cases of a specific country.
 
+-Single country search:
+
 ![search](https://user-images.githubusercontent.com/99222260/170873756-05bc52c4-12e2-4f04-84b2-be6c98224b8e.png)
+
+-Multiple countries search:
+
+(Seperate each country with a comma only)
+
+![multipleSearch](https://user-images.githubusercontent.com/99222260/170879143-abe19f14-9850-4f4b-a53a-bba3fa5bf9bc.png)
 
 3) Quit scipt.
