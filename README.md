@@ -1,6 +1,8 @@
 # Covid-Tracker
 Simple Command Line Python script tracking covid cases for every country.
 
+**This project is still in development**
+
 Modes:
 
 ![modes](https://user-images.githubusercontent.com/99222260/170873562-33256420-6d16-4f50-8a71-5e14a9b8b180.png)
