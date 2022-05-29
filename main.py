@@ -14,7 +14,7 @@ cases = []
 new_cases = []
 cases_per_country = {}
 
-os.system("clear")
+os.system(clear)
 def chooseMode():
     print("\033[4mCovid Tracker!\033[0m")
     
