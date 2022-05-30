@@ -16,8 +16,6 @@ cases_per_country = {}
 
 os.system(clear)
 def chooseMode():
-    get_case()
-    create_dict()
     print("\033[4mCovid Tracker!\033[0m")
     
     while True:
@@ -99,5 +97,7 @@ def show_all():
         print("-" * (dash + 3))
     print("\n")
     chooseMode()
-
+    
+get_case()
+create_dict()
 chooseMode()
