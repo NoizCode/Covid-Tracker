@@ -55,12 +55,6 @@ def get_case():
             cases.append(all_cases)
             continue
         
-        # Currently not working properly
-
-        #for col1 in row.find_all("td")[4]:
-            #all_deaths = col1.text
-            #total_deaths.append(all_deaths)
-
 def create_dict():
     global countries, cases, cases_per_country
 
