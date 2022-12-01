@@ -3,10 +3,10 @@ import requests
 import os
 import platform
 
+clear = "clear"
+
 if platform.system() == "Windows":
     clear = "cls"
-
-clear = "clear"
 
 total_deaths = []
 countries = []
