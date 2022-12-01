@@ -16,7 +16,25 @@ cases_per_country = {}
 
 os.system(clear)
 def chooseMode():
-    print("\033[4mCovid Tracker!\033[0m")
+    print("
+          
+      ████                █     █                
+     ███  █                     █ 
+     █      ████ ██   ██  █     █
+     █      █   █ █   █   █     █
+     █      █    █ █  █  █   ████
+     █      █    █ █  █  █   █  █
+     ███  █ ██  ██ ████  █   █  █
+       ████  ████   ██   █   ████
+
+     ███████                █  █
+        █   █      ██  ████ █ ██ ████   █
+        █   ██ █████  ██    ███  █  ██  ██
+        █   █  █   █  █     ████ █████  █
+        █   █  █   █  ██    █  █ █      █
+        █   █  ██████  ████ █  █ ██████ █
+
+          ")
     
     while True:
         mode = int(input("Choose mode: show_all(1), Search_Country(2), Quit(3)" ))
